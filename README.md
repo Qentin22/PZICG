@@ -1,2 +1,2 @@
-# PZZP
-Projekt Zespołowy 
+# PZICG
+Projekt Zespołowy Ionic City Guide
